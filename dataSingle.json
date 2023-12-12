@@ -1,0 +1,11 @@
+{
+    "id": 1,
+    "name": "张三",
+    "age": 25,
+    "email": "zhangsan@example.com",
+    "address": {
+        "country": "中国",
+        "city": "北京",
+        "street": "中关村大街"
+    }
+}
